@@ -43,7 +43,7 @@ https://medium.com/bugbountywriteup/pwndbg-gef-peda-one-for-all-and-all-for-one-
 The installer automatically detects your package manager and installs necessary dependencies (`gdb`, `python3`, `pip`, `git`) and Python libraries (`six`, `setuptools`. `uv`).
 
 ```
-git clone https://github.com/yourusername/gdb-plugin-relative-installer.git
+git clone https://github.com/mu1aq/gdb-plugin-relative-installer.git
 cd gdb-plugin-relative-installer
 ./install.sh
 ```
